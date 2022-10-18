@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DanielaDoesCode
 - 👀 I’m interested in gaming, anime and tech
 - 🌱 I’m currently learning HTML/CSS, Haskell...
+- :computer: currently making my own videogame
 - 💞️ I’m looking to collaborate on learning projects
 - 📫 How to reach me -> github and linkedin (www.linkedin.com/in/daniela-camarinha-abb485242)
