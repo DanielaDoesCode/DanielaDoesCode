@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielaDoesCode
 - 👀 I’m interested in cybersecurity, gaming, and anime
 - 🌱 I’m currently learning Python and ShellCoding
-- :computer: currently working on a Minecraft Mod
+- :computer: currently learning about distributed systems
 - 📫 How to reach me -> github and linkedin (www.linkedin.com/in/daniela-camarinha-abb485242)
