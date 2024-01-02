@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielaDoesCode
 - 👀 I’m interested in cybersecurity, gaming, and anime
-- 🌱 I’m currently learning C and Python
-- :computer: currently working on university projects on AI, distributed systems and graphics computation
+- 🌱 Currently working on my side project ChattyFwends (code in here)
+- :computer: Enrolled in a bachelor's degree in Computer Science, finishing my 3rd year soon!!!
 - 📫 How to reach me -> github and linkedin (www.linkedin.com/in/daniela-camarinha-abb485242)
