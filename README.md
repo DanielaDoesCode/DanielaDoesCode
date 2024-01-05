@@ -5,7 +5,7 @@
 - 👀 I’m interested in cybersecurity, gaming, and anime
 - 🌱 Currently working on my side project ChattyFwends (code in here)
 - :computer: Enrolled in a bachelor's degree in Computer Science, finishing my 3rd year soon!!!
-- 📫 How to reach me -> github and linkedin (www.linkedin.com/in/daniela-camarinha-abb485242)
+- 📫 Looking for oportunities as a programmer
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align= "left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
