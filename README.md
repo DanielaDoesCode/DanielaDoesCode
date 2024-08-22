@@ -1,10 +1,11 @@
 # Daniela Camarinha
 
-**`3rd year Computer Science Student`**
+**`Computer Science Masters Student`**
 - 👋 Hi, I’m @DanielaDoesCode
-- 👀 I’m interested in cybersecurity, gaming, and anime
-- 🌱 Currently working on my side project ChattyFwends (code in here)
-- :computer: Enrolled in a bachelor's degree in Computer Science, finishing my 3rd year soon!!!
+- 👀 I’m interested in cybersecurity, distributed systems, gaming, and anime
+- 🌱 Currently interning at Cloudflare
+- 🐼 Working on language learn web app in go deployed in CF Workers as a side project
+- :computer: Got into a Masters in Computer Science at IST
 - 📫 Looking for oportunities as a programmer
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
