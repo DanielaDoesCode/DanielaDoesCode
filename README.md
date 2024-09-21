@@ -2,11 +2,10 @@
 
 **`Computer Science Masters Student`**
 - 👋 Hi, I’m @DanielaDoesCode
+- - :computer: Msc in Computer Science and Engineering at IST
 - 👀 I’m interested in cybersecurity, distributed systems, gaming, and anime
-- 🟠 Currently interning at Cloudflare
-- 🐼 Working on language learn web app in go deployed in CF Workers as a side project
-- :computer: Got into a Masters in Computer Science at IST
-- 📫 Looking for oportunities as a programmer
+- 🟠 Interned for Cloudflare where I built a GraphQL API plugin for Grafana
+- 🐼 Currently developing my skills in cybersecurity by doing CTFs
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align= "left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
