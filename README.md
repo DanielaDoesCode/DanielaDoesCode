@@ -3,7 +3,7 @@
 **`Computer Science Masters Student`**
 - 👋 Hi, I’m @DanielaDoesCode
 - :computer: Msc in Computer Science and Engineering at IST
-- 👀 I’m interested in cybersecurity, distributed systems, gaming, and anime
+- 👀 I’m interested in cybersecurity and distributed systems
 - 🟠 Interned for Cloudflare where I built a GraphQL API plugin for Grafana
 - 🐼 Currently developing my skills in cybersecurity by doing CTFs
 ---
