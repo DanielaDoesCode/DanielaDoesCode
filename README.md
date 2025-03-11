@@ -6,6 +6,7 @@
 - 👀 I’m interested in cybersecurity and distributed systems
 - 🟠 Interned for Cloudflare where I built a GraphQL API plugin for Grafana
 - 🐼 Currently developing my skills in cybersecurity by doing CTFs
+- 🕹 Joined gamedev técnico to participate in game jams!
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align= "left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
