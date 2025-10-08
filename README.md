@@ -5,8 +5,8 @@
 - :computer: Msc in Computer Science and Engineering at IST
 - 👀 I’m interested in cybersecurity and distributed systems
 - 🟠 Interned for Cloudflare where I built a GraphQL API plugin for Grafana
-- 🐼 Currently developing my skills in cybersecurity by doing CTFs
-- 🕹 Joined gamedev técnico to participate in game jams!
+- 🐼 Member of @STT where i'm honing my skills studying x86 assembly and preparing for CTFs
+- 🕹 Member of the Operations Team @GDT
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align= "left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
