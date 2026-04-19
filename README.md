@@ -4,9 +4,8 @@
 - 👋 Hi, I’m @DanielaDoesCode
 - :computer: Msc in Computer Science and Engineering at IST
 - 👀 I’m interested in cybersecurity and distributed systems
+- Currently interning at @ Cisco as a Network Engineer
 - 🟠 Interned for Cloudflare where I built a GraphQL API plugin for Grafana
-- 🐼 Member of @STT where i'm honing my skills studying x86 assembly and preparing for CTFs
-- 🕹 Member of the Operations Team @GDT
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align= "left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
