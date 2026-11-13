@@ -1,6 +1,6 @@
 # Daniela Camarinha
 
-**`Computer Science Masters Student`**
+**`Security Network Engineer`**
 - 👋 Hi, I’m @DanielaDoesCode
 - :computer: Msc in Computer Science and Engineering at IST
 - 👀 I’m interested in cybersecurity and distributed systems
