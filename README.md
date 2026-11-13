@@ -5,6 +5,7 @@
 - :computer: Msc in Computer Science and Engineering at IST
 - 👀 I’m interested in cybersecurity and distributed systems
 - Technical Consulting Engineer Intern @ Cisco
+- CCNA, AITECH, CCNP SCOR
 ---
 <img align= "left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align= "left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
